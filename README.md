@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xsHX1x2inXtqmz4zmsAvSenHX06KqAbY/view?usp=sharing](https://drive.google.com/file/d/1xsHX1x2inXtqmz4zmsAvSenHX06KqAbY/view?usp=sharing)
 
-- ⚡ Fun fact **I am also a freelance Model**
+- ⚡ Fun fact - **I am also a freelance Model**
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
