@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **Everything**
 
+- <h3 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
+
 - 📝 I regularly write articles on [https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 
 - 💬 Ask me about **Web-development**
