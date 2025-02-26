@@ -2,9 +2,7 @@
 <img width="100%" height = "100%" src="https://raw.githubusercontent.com/Aditya664/Aditya664/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313434342f312a5a352d6c576b797a635242356168676d3971797876672e706e67.png" alt="cover" />
 </div>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-<h1 align="center">Hi 👋, I'm Vihanga Induwara</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Vihanga Induwara</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka 🇱🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v1hxnga&label=Profile%20views&color=0e75b6&style=flat" alt="v1hxnga" /> </p>
